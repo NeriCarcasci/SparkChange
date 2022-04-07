@@ -1,0 +1,7 @@
+1 Choose stock
+2 Choose time of buying and sell 
+3 Choose amount
+
+
+
+Trained model on historical data is given continuos daily data

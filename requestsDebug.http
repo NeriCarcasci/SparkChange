@@ -1,0 +1,9 @@
+
+### GET Ethereum
+GET https://api.binance.com/api/v1/klines?&symbol=ETHEUR&interval=3m
+
+### GET Bitcoin
+GET https://api.binance.com/api/v1/klines?&symbol=BTCEUR&interval=3m
+
+
+
